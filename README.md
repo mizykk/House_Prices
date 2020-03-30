@@ -77,9 +77,9 @@ ScreenPorch: Screen porch area in square feet
 PoolArea: Pool area in square feet  
 PoolQC: Pool quality  
 Fence: Fence quality    
-MiscFeature: Miscellaneous feature not covered in other categories  
-MiscVal: $Value of miscellaneous feature
-MoSold: Month Sold
-YrSold: Year Sold
-SaleType: Type of sale
-SaleCondition: Condition of sale
+MiscFeature: Miscellaneous feature not covered in other categories    
+MiscVal: $Value of miscellaneous feature  
+MoSold: Month Sold  
+YrSold: Year Sold  
+SaleType: Type of sale   
+SaleCondition: Condition of sale   
